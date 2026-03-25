@@ -157,7 +157,7 @@ jupyter notebook
 Abrir o arquivo:
 
 ```bash
-sistema_recomendacao_filmes.ipynb
+movie_rec_system.ipynb
 ```
 
 ---
