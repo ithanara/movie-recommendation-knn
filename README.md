@@ -1,5 +1,15 @@
 # 🎬 Sistema de Recomendação de Filmes com Machine Learning
 
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-blue?logo=pandas)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-blue?)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-KNN-purple)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![Language](https://img.shields.io/badge/Language-Portuguese--BR-green)
+
+---
+
 Este projeto demonstra o desenvolvimento de um **sistema de recomendação de filmes** utilizando técnicas de **Machine Learning**.
 O fluxo inclui **pré-processamento de dados**, **engenharia de features**, **clusterização** e um **modelo de recomendação baseado em similaridade**.
 
