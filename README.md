@@ -146,6 +146,53 @@ Este projeto simula a lógica utilizada em plataformas de streaming para persona
 
 ## 🚀 Como Executar o Projeto
 
+### 0. Pré-requisitos
+
+Para executar este projeto localmente, é necessário ter instalado:
+
+- Python 3.10 ou superior
+- pip (gerenciador de pacotes do Python)
+- Jupyter Notebook ou JupyterLab
+
+#### Verificando se o Python está instalado:
+
+No terminal, execute:
+
+```
+python --version
+```
+
+ou
+
+```
+python3 --version
+```
+
+Se o Python não estiver instalado, faça o download no site oficial:
+https://www.python.org/downloads/
+
+#### Verificando se o Jupyter está instalado:
+
+No terminal, execute:
+
+```
+jupyter --version
+```
+
+Se o Jupyter não estiver instalado, você pode instalá-lo com:
+
+```
+pip install notebook
+```
+
+Ou, alternativamente, instalar o JupyterLab:
+
+```
+pip install jupyterlab
+```
+
+---
+
 ### 1. Clonar o repositório
 
 ```bash
